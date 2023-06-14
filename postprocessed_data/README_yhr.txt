@@ -1,0 +1,1 @@
+for the 3 y_hr files, they are too big to commit to Github, simply use notebooks>downscaling_GEFS_reanalysis file to download the y_hr files
