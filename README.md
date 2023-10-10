@@ -2,6 +2,7 @@ SRGAN with Multi-Task Approach for Climate Downscaling
 
 https://medium.com/@jackswl/climate-downscaling-using-srgan-with-multi-task-learning-731c8257ef4d
 
+Acknowledgement: This article is an excerpt of my project during NUS Undergraduate Research Opportunity Programme, where I worked with Prof. Xiaogang HE, Zhanwei LIU and Huimin WANG. Without them, the idea, research and codes provided in this article would not have been possible.
 
 `model` file contains the model architecture 
 `notebooks` file contains the files required to classify and downscale GEFSv12 reanalysis data, and preprocessing of GEFS ensemble input
